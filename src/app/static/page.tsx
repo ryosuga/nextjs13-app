@@ -1,5 +1,4 @@
 // app/static/page.tsx
-
 import Link from "next/link";
 import { getList } from "../../../libs/microcms";
 
